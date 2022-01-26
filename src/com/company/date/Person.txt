@@ -1,0 +1,16 @@
+"Michael", "Smith",   243,  43, CHEF
+"Jane",    "Smith",   523,  40, MANAGER
+"Jury",    "Gagarin", 6423, 26, MANAGER
+"Jack",    "London",  5543, 53, WORKER
+"Eric",    "Jackson", 2534, 22, WORKER
+"Andrew",  "Bosh",    3456, 44, WORKER
+"Joe",     "Smith",   723,  30, MANAGER
+"Jack",    "Gagarin", 7423, 35, MANAGER
+"Jane",    "London",  7543, 42, WORKER
+"Mike",    "Jackson", 7534, 31, WORKER
+"Jack",    "Bosh",    7456, 54, WORKER
+"Mark",    "Smith",   123,  41, MANAGER
+"Jane",    "Gagarin", 1423, 28, MANAGER
+"Sam",     "London",  1543, 52, WORKER
+"Jack",    "Jackson", 1534, 27, WORKER
+"Eric",    "Bosh",    1456, 32, WORKER
